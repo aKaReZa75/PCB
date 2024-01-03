@@ -1,12 +1,13 @@
 # PCB
 [![](https://img.shields.io/badge/PCB-YouTube-red)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W--r5IEt43l0Vvq7jrmNnc)
 
-Altium Designer Qucik and Easy
+Altium Designer Quick and Easy
 -------------
 [![](https://img.shields.io/badge/PCB-Introduction-red)](https://youtu.be/XcGx8F-Pwc0)
 [![](https://img.shields.io/badge/PCB-Schematic-red)](https://youtu.be/hTGrnCFe-TQ)
 [![](https://img.shields.io/badge/PCB-PCB_Lyaers-red)](https://youtu.be/YPvdcqQbbiQ)
 [![](https://img.shields.io/badge/PCB-Trace_Properties-red)](https://youtu.be/hNCFRN08QaA)
+[![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_A-red)](https://youtu.be/BtFFsqzkCSk)
 
 Electronic Design
 -------------
