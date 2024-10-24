@@ -1,7 +1,7 @@
 # PCB
 [![](https://img.shields.io/badge/PCB-YouTube-red)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W--r5IEt43l0Vvq7jrmNnc)
 
-PCB
+Printed Circuit Board
 -------------
 [![](https://img.shields.io/badge/PCB-Introduction-red)](https://youtu.be/XcGx8F-Pwc0)
 [![](https://img.shields.io/badge/PCB-Schematic-red)](https://youtu.be/hTGrnCFe-TQ)
