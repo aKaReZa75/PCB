@@ -18,6 +18,7 @@ Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-Library_PART_A-red)](https://youtu.be/yt6wmXNhPHg)
 [![](https://img.shields.io/badge/PCB-Library_PART_B-red)](https://youtu.be/dTeTpMkixJI)
 [![](https://img.shields.io/badge/PCB-Library_PART_C-red)](https://youtu.be/aoqMTQX8EtM)
+[![](https://img.shields.io/badge/PCB-Library_PART_D-red)](https://youtu.be/wHq2v9WrjEQ)
 
 Contact Us
 -------------
