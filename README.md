@@ -1,21 +1,8 @@
 Printed Circuit Board
 -------------
-[![](https://img.shields.io/badge/PCB-Introduction-red)](https://youtu.be/XcGx8F-Pwc0)
-[![](https://img.shields.io/badge/PCB-Schematic-red)](https://youtu.be/hTGrnCFe-TQ)
-[![](https://img.shields.io/badge/PCB-PCB_Lyaers-red)](https://youtu.be/YPvdcqQbbiQ)
-[![](https://img.shields.io/badge/PCB-Trace_Properties-red)](https://youtu.be/hNCFRN08QaA)
-[![](https://img.shields.io/badge/PCB-Driving_GPIO_output_pins-red)](https://youtu.be/3z51BFROeN8)
-[![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_A-red)](https://youtu.be/BtFFsqzkCSk)
-[![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_B-red)](https://youtu.be/yqlKacCi0RM)
-[![](https://img.shields.io/badge/PCB-USB_to_TTL-red)](https://youtu.be/CHOmadm1B9U)
-[![](https://img.shields.io/badge/PCB-How_to_drive_a_Relay-red)](https://youtu.be/Cm22w3K2WrA)
-[![](https://img.shields.io/badge/PCB-Linear_Regulator-red)](https://youtu.be/eiynBFXXjeA)
-[![](https://img.shields.io/badge/PCB-Switching_Regulator-red)](https://youtu.be/GH5ICs1DhkY)
-[![](https://img.shields.io/badge/PCB-Switching_Enclosure_PART_A-red)](https://youtu.be/Ss4O40y-sWo)
-[![](https://img.shields.io/badge/PCB-Library_PART_A-red)](https://youtu.be/yt6wmXNhPHg)
-[![](https://img.shields.io/badge/PCB-Library_PART_B-red)](https://youtu.be/dTeTpMkixJI)
-[![](https://img.shields.io/badge/PCB-Library_PART_C-red)](https://youtu.be/aoqMTQX8EtM)
-[![](https://img.shields.io/badge/PCB-Library_PART_D-red)](https://youtu.be/wHq2v9WrjEQ)
+
+> [!CAUTION]
+> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
