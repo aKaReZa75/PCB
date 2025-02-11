@@ -35,6 +35,11 @@ You'll find **tutorials, schematics, PCB layouts, and hands-on projects** to enh
   ---  
    All PCB designs across all repositories and projects are built using this Altium Designer component library. It contains a wide range of verified footprints, schematic symbols, and 3D models, ensuring consistency and accuracy in PCB designs. If you're working on a new PCB, using this library will save you time and minimize errors.
 
+- [Altium Shortcuts](./Shortcuts.md)  
+  ---  
+  This document contains a comprehensive list of **Altium Designer keyboard shortcuts** to help you navigate and use the software more efficiently. Whether you're working with schematics, PCB layouts, or general project management, these shortcuts will save you time and improve your workflow.
+
+
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
 1. **Using Git Bash and Cloning the Repository**
