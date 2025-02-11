@@ -5,7 +5,7 @@ You'll find **tutorials, schematics, PCB layouts, and hands-on projects** to enh
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
 # 🔗 Resources
-    Here you will find a collection of useful links and documents related to PCB design and electronics. These resources include datasheets, tutorials, and essential tools to help you get started and guide you through the process.
+   Here you will find a collection of useful links and documents related to PCB design and electronics. These resources include datasheets, tutorials, and essential tools to help you get started and guide you through the process.
   
 > [!TIP]
 > The resources are detailed in the sections below.  
