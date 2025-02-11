@@ -30,7 +30,11 @@ You'll find **tutorials, schematics, PCB layouts, and hands-on projects** to enh
 - [Design Templates (Schematics)](https://github.com/aKaReZa75/Design_Template.git)  
   ---  
   A collection of **pre-designed and tested schematics** that you can directly copy and integrate into your projects. Since these schematics have been verified, you can use them with confidence without worrying about design flaws, saving time and effort in your development process.
-    
+
+- [Altium Library](https://github.com/aKaReZa75/Altium-Library)  
+  ---  
+   All PCB designs across all repositories and projects are built using this Altium Designer component library. It contains a wide range of verified footprints, schematic symbols, and 3D models, ensuring consistency and accuracy in PCB designs. If you're working on a new PCB, using this library will save you time and minimize errors.
+
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
 1. **Using Git Bash and Cloning the Repository**
