@@ -1,9 +1,28 @@
-Printed Circuit Board
--------------
-
+# PCB Design & Electronics  
+This repository provides essential resources for **PCB design** and **electronics**, covering both theoretical concepts and practical applications.    
+You'll find **tutorials, schematics, PCB layouts, and hands-on projects** to enhance your understanding.    Whether you're a beginner or an advanced user, these materials will help you design, analyze, and troubleshoot electronic circuits effectively. Be sure to check out the **educational boards** and **projects** for deeper insights!
 > [!CAUTION]
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
+# 🔗 Resources
+    Here you will find a collection of useful links and documents related to PCB design and electronics. These resources include datasheets, tutorials, and essential tools to help you get started and guide you through the process.
+  
+> [!TIP]
+> The resources are detailed in the sections below.  
+> To access any of them, simply click on the corresponding blue link.
+
+- [Video PlayList](./Videos.md)
+  ---  
+    All videos related to PCB design and electronics for this topic can be found at this link.
+
+- [Projects](https://github.com/aKaReZa75#%EF%B8%8F-projects)  
+  ---  
+  I highly recommend exploring the **projects** available in this repository. They contain valuable insights and practical applications that will enhance your learning experience.  
+
+- [Educational Boards](https://github.com/aKaReZa75#%EF%B8%8F-educational-boards)  
+  ---  
+  Be sure to check out the **educational boards**, where numerous key concepts and techniques have been demonstrated in detail.
+    
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
 1. **Using Git Bash and Cloning the Repository**
