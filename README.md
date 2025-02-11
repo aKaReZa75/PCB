@@ -23,6 +23,14 @@ You'll find **tutorials, schematics, PCB layouts, and hands-on projects** to enh
   ---  
   Be sure to check out the **educational boards**, where numerous key concepts and techniques have been demonstrated in detail.
     
+- [PCB Raw Project (Altium Designer)](https://github.com/aKaReZa75/PCB_RawProject.git)  
+  ---  
+  This repository provides a **ready-to-use PCB project template for Altium Designer**, with pre-configured settings to help you kickstart your designs efficiently. Use this as a foundation to build and customize your own PCB projects without the hassle of setting up everything from scratch.
+
+- [Design Templates (Schematics)](https://github.com/aKaReZa75/Design_Template.git)  
+  ---  
+  A collection of **pre-designed and tested schematics** that you can directly copy and integrate into your projects. Since these schematics have been verified, you can use them with confidence without worrying about design flaws, saving time and effort in your development process.
+    
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
 1. **Using Git Bash and Cloning the Repository**
