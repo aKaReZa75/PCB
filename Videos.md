@@ -158,6 +158,14 @@ The **PCB Design** section covers everything you need to know about designing pr
   - Modifying a component to match your specific requirements  
   - Introduction to **SnapEDA**  
   - Introduction to **SamacSys**    
+
+- [aKaReZa 93 - PCB, Rules - PART A](https://youtu.be/v7J4I0oYRnQ)  
+  ---  
+  Discover essential PCB design rules in this video, including optimizing and standardizing designs using Altium Designer, addressing signal interference, routing issues, and manufacturing errors. Learn about electrical, routing, and placement rules, SMD components, stencil printing, and high-speed signal integrity.
+
+- [aKaReZa 94 - PCB, Rules - PART B](https://youtu.be/1Rfd8kFa2eg)  
+  ---  
+  Continue mastering PCB design rules with this video. Learn to check and manage rules in Altium Designer, address spacing, track width, and net issues, and leverage advanced tools like Online DRC, PCB Rules Panel, Query usage, and Rule Wizard for precise designs.
   
 # 🌟 Support Me
 If you found this repository useful:
