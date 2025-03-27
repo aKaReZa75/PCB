@@ -167,7 +167,7 @@ The **PCB Design** section covers everything you need to know about designing pr
   ---  
   Continue mastering PCB design rules with this video. Learn to check and manage rules in Altium Designer, address spacing, track width, and net issues, and leverage advanced tools like Online DRC, PCB Rules Panel, Query usage, and Rule Wizard for precise designs.
 
-- [Output Jobs in Altium Designer: PCB Design Outputs Management](https://youtu.be/ScCNSgey860)  
+- [aKaReZa 96 - PCB, Output Jobs - PART A](https://youtu.be/ScCNSgey860)  
   ---  
   This video provides a comprehensive guide to managing Output Jobs in Altium Designer, covering PCB design rule checks (DRC), generating BOM, creating Gerber files, documentation, setting origin positions, validation, and fabrication outputs management. Perfect for ensuring precise and efficient PCB production.
   
