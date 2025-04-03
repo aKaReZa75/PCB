@@ -170,6 +170,10 @@ The **PCB Design** section covers everything you need to know about designing pr
 - [aKaReZa 96 - PCB, Output Jobs - PART A](https://youtu.be/ScCNSgey860)  
   ---  
   This video provides a comprehensive guide to managing Output Jobs in Altium Designer, covering PCB design rule checks (DRC), generating BOM, creating Gerber files, documentation, setting origin positions, validation, and fabrication outputs management. Perfect for ensuring precise and efficient PCB production.
+
+- [aKaReZa 97 - PCB, Output Jobs - PART B](https://youtu.be/ctD2U4BKI84)  
+  ---  
+  Explore advanced Output Jobs in Altium Designer to create and manage essential files for PCB manufacturing and assembly. Learn tasks such as generating NC Drill Files, creating Pick and Place files, performing Electrical Rule Checks (ERC), documenting board layers, producing 3D and 2D outputs, and using DraftsMan for professional documentation. Perfect for mastering PCB output workflows!
   
 # 🌟 Support Me
 If you found this repository useful:
