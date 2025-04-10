@@ -174,6 +174,10 @@ The **PCB Design** section covers everything you need to know about designing pr
 - [aKaReZa 97 - PCB, Output Jobs - PART B](https://youtu.be/ctD2U4BKI84)  
   ---  
   Explore advanced Output Jobs in Altium Designer to create and manage essential files for PCB manufacturing and assembly. Learn tasks such as generating NC Drill Files, creating Pick and Place files, performing Electrical Rule Checks (ERC), documenting board layers, producing 3D and 2D outputs, and using DraftsMan for professional documentation. Perfect for mastering PCB output workflows!
+
+- [aKaReZa 98 - PCB, Ordering](https://youtu.be/FoJUFKjwWjk)  
+  ---  
+  In this video, explore essential steps for ordering PCB, from fixing issues before printing, reviewing design rules, error troubleshooting, professional documentation, and learning about local companies and Cheap Project group for seamless PCB manufacturing.
   
 # 🌟 Support Me
 If you found this repository useful:
