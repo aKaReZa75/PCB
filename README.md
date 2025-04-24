@@ -1,8 +1,6 @@
 # PCB Design & Electronics  
 This repository provides essential resources for **PCB design** and **electronics**, covering both theoretical concepts and practical applications.    
 You'll find **tutorials, schematics, PCB layouts, and hands-on projects** to enhance your understanding.    Whether you're a beginner or an advanced user, these materials will help you design, analyze, and troubleshoot electronic circuits effectively. Be sure to check out the **educational boards** and **projects** for deeper insights!
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
 <table>
   <tr>
@@ -22,7 +20,17 @@ You'll find **tutorials, schematics, PCB layouts, and hands-on projects** to enh
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
 
 # 🔗 Resources
