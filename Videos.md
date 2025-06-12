@@ -2,116 +2,6 @@
 This document contains videos related to **Electronics** and **PCB Design**.  
 In the **Electronics** section, you'll find tutorials on fundamental concepts, components, and techniques that are essential for understanding and working with electronic circuits.  
 The **PCB Design** section covers everything you need to know about designing printed circuit boards, from the basics to more advanced topics, including tools, best practices, and tips for creating efficient and reliable PCBs.  
-
-# 🛠️ Electronicss  
-  <table style="border-collapse: collapse;">
-  <tr>
-    <td valign="top" style="padding: 0 10px;">
-      <h3 style="margin: 0;">
-        <a href="https://youtu.be/3z51BFROeN8">aKaReZa 31 – PCB, Driving GPIO Output Pins</a>
-      </h3>
-      <p style="margin: 8px 0 0;">
-        Learn how to drive a microcontroller's output with minimal current draw using various electronic components such as transistors, MOSFETs, and ICs. We'll also cover the necessary calculations for each method and finally test and compare all the introduced techniques practically.
-      </p>
-    </td>
-    <td width="360" valign="top" style="padding: 0;">
-      <a href="https://youtu.be/3z51BFROeN8">
-        <img src="https://img.youtube.com/vi/3z51BFROeN8/maxresdefault.jpg"
-             width="360"
-             alt="aKaReZa 31 – PCB, Driving GPIO Output Pins Thumbnail"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" style="padding: 0 10px;">
-      <h3 style="margin: 0;">
-        <a href="https://youtu.be/Cm22w3K2WrA">aKaReZa 50 – PCB, How to Drive a Relay</a>
-      </h3>
-      <p style="margin: 8px 0 0;">
-        In this video, you'll learn about:
-        <ul>
-          <li>What a relay is and its applications</li>
-          <li>How to connect a relay to a microcontroller</li>
-          <li>Relay driver circuit with a microcontroller</li>
-          <li>What a flywheel diode is and why it's necessary</li>
-          <li>How to add an LED indicator for the relay</li>
-          <li>Understanding snubber circuits and their purpose in relay circuits</li>
-          <li>Internal PCB cutouts under the relay and their importance</li>
-          <li>How to drive multiple relays simultaneously</li>
-          <li>Introduction to optocouplers and their role in relay drivers</li>
-          <li>Proper component placement and trace routing in PCB design</li>
-        </ul>
-      </p>
-    </td>
-    <td width="360" valign="middle" style="padding: 0;">
-      <a href="https://youtu.be/Cm22w3K2WrA">
-        <img src="https://img.youtube.com/vi/Cm22w3K2WrA/maxresdefault.jpg"
-             width="360"
-             alt="aKaReZa 50 – PCB, How to Drive a Relay Thumbnail"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" style="padding: 0 10px;">
-      <h3 style="margin: 0;">
-        <a href="https://youtu.be/eiynBFXXjeA">aKaReZa 60 – PCB, Linear Regulator</a>
-      </h3>
-      <p style="margin: 8px 0 0;">
-        In this video, you'll learn about:
-        <ul>
-          <li>Common issues caused by improper power supply</li>
-          <li>Methods for voltage reduction and stabilization</li>
-          <li>Introduction to voltage regulators and their classifications</li>
-          <li>Understanding linear regulators, their advantages, and disadvantages</li>
-          <li>Techniques to reduce power loss in linear regulators</li>
-          <li>Heat sinks and their applications</li>
-          <li>How to increase the current capacity of linear regulators and minimize losses</li>
-          <li>Commonly used linear regulators and their circuits</li>
-          <li>How to adjust the output of adjustable (ADJ) regulators</li>
-          <li>Introduction to LDO (Low Dropout) regulators and their applications</li>
-        </ul>
-      </p>
-    </td>
-    <td width="360" valign="middle" style="padding: 0;">
-      <a href="https://youtu.be/eiynBFXXjeA">
-        <img src="https://img.youtube.com/vi/eiynBFXXjeA/maxresdefault.jpg"
-             width="360"
-             alt="aKaReZa 60 – PCB, Linear Regulator Thumbnail"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" style="padding: 0 10px;">
-      <h3 style="margin: 0;">
-        <a href="https://youtu.be/GH5ICs1DhkY">aKaReZa 65 – PCB, Switching Regulator</a>
-      </h3>
-      <p style="margin: 8px 0 0;">
-        In this video, you'll learn about:
-        <ul>
-          <li>Introduction to switching regulators, their advantages, and disadvantages</li>
-          <li>Comparison between switching and linear regulators</li>
-          <li>Understanding buck (step-down) switching regulators</li>
-          <li>Understanding synchronous switching regulators</li>
-          <li>Understanding boost (step-up) switching regulators</li>
-          <li>Understanding buck-boost switching regulators</li>
-          <li>Understanding isolated switching regulators</li>
-        </ul>
-      </p>
-    </td>
-    <td width="360" valign="middle" style="padding: 0;">
-      <a href="https://youtu.be/GH5ICs1DhkY">
-        <img src="https://img.youtube.com/vi/GH5ICs1DhkY/maxresdefault.jpg"
-             width="360"
-             alt="aKaReZa 65 – PCB, Switching Regulator Thumbnail"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-  
   
 # 🔥 PCB Design  
 <table style="border-collapse: collapse;">
@@ -452,6 +342,116 @@ The **PCB Design** section covers everything you need to know about designing pr
         <img src="https://img.youtube.com/vi/FoJUFKjwWjk/maxresdefault.jpg"
              width="360"
              alt="aKaReZa 98 – PCB, Ordering Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+# 🛠️ Electronicss  
+  <table style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/3z51BFROeN8">aKaReZa 31 – PCB, Driving GPIO Output Pins</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Learn how to drive a microcontroller's output with minimal current draw using various electronic components such as transistors, MOSFETs, and ICs. We'll also cover the necessary calculations for each method and finally test and compare all the introduced techniques practically.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/3z51BFROeN8">
+        <img src="https://img.youtube.com/vi/3z51BFROeN8/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 31 – PCB, Driving GPIO Output Pins Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/Cm22w3K2WrA">aKaReZa 50 – PCB, How to Drive a Relay</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, you'll learn about:
+        <ul>
+          <li>What a relay is and its applications</li>
+          <li>How to connect a relay to a microcontroller</li>
+          <li>Relay driver circuit with a microcontroller</li>
+          <li>What a flywheel diode is and why it's necessary</li>
+          <li>How to add an LED indicator for the relay</li>
+          <li>Understanding snubber circuits and their purpose in relay circuits</li>
+          <li>Internal PCB cutouts under the relay and their importance</li>
+          <li>How to drive multiple relays simultaneously</li>
+          <li>Introduction to optocouplers and their role in relay drivers</li>
+          <li>Proper component placement and trace routing in PCB design</li>
+        </ul>
+      </p>
+    </td>
+    <td width="360" valign="middle" style="padding: 0;">
+      <a href="https://youtu.be/Cm22w3K2WrA">
+        <img src="https://img.youtube.com/vi/Cm22w3K2WrA/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 50 – PCB, How to Drive a Relay Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/eiynBFXXjeA">aKaReZa 60 – PCB, Linear Regulator</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, you'll learn about:
+        <ul>
+          <li>Common issues caused by improper power supply</li>
+          <li>Methods for voltage reduction and stabilization</li>
+          <li>Introduction to voltage regulators and their classifications</li>
+          <li>Understanding linear regulators, their advantages, and disadvantages</li>
+          <li>Techniques to reduce power loss in linear regulators</li>
+          <li>Heat sinks and their applications</li>
+          <li>How to increase the current capacity of linear regulators and minimize losses</li>
+          <li>Commonly used linear regulators and their circuits</li>
+          <li>How to adjust the output of adjustable (ADJ) regulators</li>
+          <li>Introduction to LDO (Low Dropout) regulators and their applications</li>
+        </ul>
+      </p>
+    </td>
+    <td width="360" valign="middle" style="padding: 0;">
+      <a href="https://youtu.be/eiynBFXXjeA">
+        <img src="https://img.youtube.com/vi/eiynBFXXjeA/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 60 – PCB, Linear Regulator Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/GH5ICs1DhkY">aKaReZa 65 – PCB, Switching Regulator</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, you'll learn about:
+        <ul>
+          <li>Introduction to switching regulators, their advantages, and disadvantages</li>
+          <li>Comparison between switching and linear regulators</li>
+          <li>Understanding buck (step-down) switching regulators</li>
+          <li>Understanding synchronous switching regulators</li>
+          <li>Understanding boost (step-up) switching regulators</li>
+          <li>Understanding buck-boost switching regulators</li>
+          <li>Understanding isolated switching regulators</li>
+        </ul>
+      </p>
+    </td>
+    <td width="360" valign="middle" style="padding: 0;">
+      <a href="https://youtu.be/GH5ICs1DhkY">
+        <img src="https://img.youtube.com/vi/GH5ICs1DhkY/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 65 – PCB, Switching Regulator Thumbnail"/>
       </a>
     </td>
   </tr>
