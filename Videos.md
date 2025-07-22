@@ -2,6 +2,104 @@
 This document contains videos related to **Electronics** and **PCB Design**.  
 In the **Electronics** section, you'll find tutorials on fundamental concepts, components, and techniques that are essential for understanding and working with electronic circuits.  
 The **PCB Design** section covers everything you need to know about designing printed circuit boards, from the basics to more advanced topics, including tools, best practices, and tips for creating efficient and reliable PCBs.  
+
+```plaintext
+PCB
+├── PCB Design
+│   ├── [aKaReZa 8 - Introduction]
+│   │     ├─ Build Methods — Direct, breadboard, perfboard, PCB comparison.
+│   │     └─ Printing — Acid, laminate, CNC, factory techniques.
+│   │
+│   ├── [aKaReZa 13 - Schematic]
+│   │     ├─ Project Setup — New schematic in Altium Designer.
+│   │     ├─ Libraries — Installing and organizing components.
+│   │     └─ Design — Naming, connecting, error handling.
+│   │
+│   ├── [aKaReZa 21 - PCB Layers]
+│   │     ├─ Transition — Schematic-to-PCB environment.
+│   │     ├─ Layout — Placement, board size, 3D view.
+│   │     ├─ Layers — PCB layer roles and unit handling.
+│   │     └─ Info — Using “Informations” for board details.
+│   │
+│   ├── [aKaReZa 27 - Trace Properties]
+│   │     ├─ Calculations — Trace width, current, resistance.
+│   │     ├─ Power Loss — Voltage drop and thermal effects.
+│   │     └─ Effects — Etch factor, skin effect, thickness.
+│   │
+│   ├── [aKaReZa 78 - Enclosure - PART A]
+│   │       ├─ Board Fit — Shape and size design for enclosure.
+│   │       ├─ CAD — Importing with CAD Direct and Print2CAD.
+│   │       └─ Mounting — Screws, holes, compatibility check.
+│   │
+│   ├── [aKaReZa 93 - Rules - PART A]
+│   │     ├─ Rules — Electrical, routing, manufacturing, placement.
+│   │     ├─ Components — SMD, silkscreen, polygons.
+│   │     └─ Signal — High-speed and integrity considerations.
+│   │
+│   ├── [aKaReZa 94 - Rules - PART B]
+│   │     ├─ DRC — Online checks, violations, waived errors.
+│   │     ├─ Panels — Rules Panel, RawProject repo.
+│   │     ├─ Queries — Rule logic and custom net rules.
+│   │     └─ Management — Priorities, classes, Rule Wizard.
+│   │
+│   ├── [aKaReZa 96 - Output Jobs - PART A]
+│   │     ├─ Production — Gerber, BOM, Solder BOM generation.
+│   │     ├─ Reports — PCB document, validation, reference point.
+│   │     └─ Containers — Output job config in Altium.
+│   │
+│   ├── [aKaReZa 97 - Output Jobs - PART B]
+│   │     ├─ Fabrication — NC drill, Pick and Place, Drill Guide.
+│   │     ├─ Reports — Single Pin Net, hierarchy, stack-up.
+│   │     ├─ Visuals — 2D print, 3D output, schematic prints.
+│   │     └─ Docs — Assembly, mechanical, DraftsMan tool.
+│   │
+│   └── [aKaReZa 98 - Ordering]
+│         ├─ Checklist — Pre-order fixes and final reviews.
+│         ├─ Fabrication — Domestic manufacturers and ordering flow.
+│         └─ Tips — Prevent errors and use proper documentation.
+│ 
+├── Library Design
+│   ├── [aKaReZa 82 - PART A]
+│   │     ├─ Setup — Integrated project, schematic, footprint basics.
+│   │     └─ Components — THT/SMD resistors, parameters, 3D models.
+│   │
+│   ├── [aKaReZa 84 - PART B]
+│   │     ├─ Capacitors — Polarized/non-polarized schematic + footprint.
+│   │     └─ Inductors — THT, SMD, drum, power types.
+│   │
+│   ├── [aKaReZa 85 - PART C]
+│   │     ├─ Components — Diodes, transistors, ICs, op-amps.
+│   │     ├─ Footprint — THT/SMD + power inductors.
+│   │     └─ Pins — Actual vs Functional + multi-part symbols.
+│   │
+│   └── [aKaReZa 86 - PART D]
+│         ├─ Devices — STM32, AMS1117 schematics and footprint.
+│         ├─ Wizards — Altium + IPC automation tools.
+│         ├─ Standards — Ref point, layers, holes, validation.
+│         └─ Resources — SnapEDA, SamacSys, custom imports.
+│
+└── Electronics
+     ├── [aKaReZa 31 - Driving GPIO Output Pins]
+     │     ├─ Drivers — Transistors, MOSFETs, ICs.
+     │     ├─ Efficiency — Current reduction, beta impact, calculations.
+     │     └─ Testing — Comparing methods and circuit performance.
+     │
+     ├── [aKaReZa 50 - How to Drive a Relay]
+     │     ├─ Circuit — Relay wiring, Flywheel diode, LED indicator.
+     │     ├─ Protection — Snubber, optocoupler, clearance.
+     │     └─ Control — Multi-relay drive and routing strategy.
+     │
+     ├── [aKaReZa 60 - Linear Regulator]
+     │     ├─ Regulation — Voltage stability and problem solving.
+     │     ├─ Optimization — Heat sinks, LDOs, loss minimization.
+     │     └─ Components — Adjustable regulators and performance tips.
+     │
+     └── [aKaReZa 65 - Switching Regulator]
+           ├─ Overview — Operation principles and use cases.
+           ├─ Types — Buck, boost, buck-boost, isolated.
+           ├─ Comparison — Switching vs linear efficiency.
+           └─ Applications — Synchronous designs and power conversion.
+```
   
 # 🔥 PCB Design  
 <table style="border-collapse: collapse;">
@@ -349,7 +447,7 @@ The **PCB Design** section covers everything you need to know about designing pr
 
 
 
-# 🛠️ Electronicss  
+# 🛠️ Electronics  
   <table style="border-collapse: collapse;">
   <tr>
     <td valign="top" style="padding: 0 10px;">
